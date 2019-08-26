@@ -1,2 +1,2 @@
 # STA518_Test
-Test repository for STA518
+This is a repository for STA518
